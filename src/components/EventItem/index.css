@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.image1 {
+  height: 150px;
+}
+.lists {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-right: 30px;
+  margin-left: 0px;
+}

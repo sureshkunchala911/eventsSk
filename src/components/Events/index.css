@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.eventContainer {
+  background-color: #64748b;
+  height: 100%;
+  width: 50vw;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 35px;
+}
+.event-head {
+  text-align: center;
+  font-family: Roboto;
+  color: #ffffff;
+}
+.eventsList {
+  list-style-type: none;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 0px;
+  padding-left: 0px;
+}
